@@ -1,2 +1,2 @@
 # PickYourMains
-***you a bich***
+This is a website designed to allow users to create an image(s) showing off their mains, secondaries, and tertiaries for different games (usually competitive in nature). Some games will have a pre-designed templates but users will be able to create and customize their own templates for others to use.
